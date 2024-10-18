@@ -13,9 +13,8 @@ The **Multi-Clients Chat App** is a versatile and user-friendly chat application
 ## Demonstration
 Here is a visual representation of how the **Multi-Clients Chat App** works:
 
-![Chat App Demo](assets/chat-app-demo.png)
+![Chat App Demo](src/icons/DemonstrationChatApp.png)
 
-*(Make sure to replace `assets/chat-app-demo.png` with the actual path to your image)*
 
 ## Tools and Technologies Used
 
@@ -37,7 +36,16 @@ Here is a visual representation of how the **Multi-Clients Chat App** works:
 - **Processing Power**: Adequate CPU and memory to compile and test Java code effectively.
 - **Operating System**: Compatible with Java development tools (Windows, macOS, Linux).
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/multi-clients-chat-app.git
+## How It Works
+- **Server**: The server starts and listens for client connections. Once a client is connected, the server facilitates real-time message exchange between all connected clients.
+- **Client**: The client connects to the server, allowing users to send and receive messages in real-time.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any queries, feel free to contact:
+- **Name**: Shivam Patel
+- **Email**: shivampatelthechamp@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shivam-patel-34317b287/)
