@@ -13,7 +13,7 @@ The **Multi-Clients Chat App** is a versatile and user-friendly chat application
 ## Demonstration
 Here is a visual representation of how the **Multi-Clients Chat App** works:
 
-![Chat App Demo](src/icons/DemonstrationChatApp.png)
+![Chat App Demo](Multi-Clients%20Chat%20App/src/icons/DemonstrationChatApp.png)
 
 
 ## Tools and Technologies Used
