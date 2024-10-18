@@ -41,9 +41,6 @@ Here is a visual representation of how the **Multi-Clients Chat App** works:
 - **Client**: The client connects to the server, allowing users to send and receive messages in real-time.
 
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any queries, feel free to contact:
 - **Name**: Shivam Patel
